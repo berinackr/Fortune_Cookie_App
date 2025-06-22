@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Homeworks"
+rootProject.name = "fortunecookie"
 include(":app")
  

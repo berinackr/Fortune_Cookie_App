@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.homeworks"
+    namespace = "com.bernackr.fortunecookie"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.homeworks"
+        applicationId = "com.bernackr.fortunecookie"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
