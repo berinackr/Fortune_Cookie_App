@@ -30,3 +30,5 @@ A lightweight Android application developed in Kotlin that delivers random fortu
   <img src="screenshots/open.png" alt="Opened Cookie - Turkish" width="200" />
   <img src="screenshots/open_eng.png" alt="Opened Cookie - English" width="200" />
 </div>
+
+🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/tizJMp6Gq-c)
